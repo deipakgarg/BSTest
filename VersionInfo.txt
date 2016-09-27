@@ -1,1 +1,1 @@
-Master->dev_branch->Ticket_1
+Master->dev_branch
