@@ -1,1 +1,13 @@
 Sample file
+----------------------------------
+NGB-NewDev-CDH-Slave-1
+NGB-NewDev-CDH-Slave-2
+NGB-NewDev-CDH-Slave-3
+NGB-NewDev-CDH-Slave-4
+NGB-NewDev-CDH-Slave-5
+NGB-slave-6-preprod.aeris.net
+NGB-slave-7-HVM-prod.aeris.net
+NGB-slave-8-HVM-prod.aeris.net
+NGB-slave-9-prod-HVM.aeris.net
+NGB-slave-10-prod-HVM.aeris.net
+NGB-slave-11-HVM-prod.aeris.net
